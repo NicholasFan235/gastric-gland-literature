@@ -88,9 +88,22 @@
 - To study mutant invasion, introduce patch of mutant cells and investigate how varying adhesion or position changes ability to invade crypt.
     - Cell-vertex and continuum models suggest bottom-up is predominant method. But top-down is possible if adhesive effects are strong.
 
-## Modelling spatially regulated $\beta$-catenin dynamics and invasion in intestinal crypts
+## Modelling spatially regulated beta-catenin dynamics and invasion in intestinal crypts
+- Develop PDE system to coarse grain the model
+- Multiple crypts
+- Disabled spatial regulation of cell proliferation insufficient for neighbouring crypts to be invaded by mutants
+- Require reduced shedding rate for invasion to occur.
+
 
 ## Comparing a discrete and continuum model of the intestinal crypt
+- Coarse-graining of discrete cell-based models into continuous models used to give insight into the disrete model.
+- Discrete models suffer from stochasticity and large parameter space.
+- Assume crypt symmetric about longitudinal axis -> 1D model equation coarse-grained to the nonlinear diffusion equation.
+- Cell proliferation included through source term at bottom of crypt.
+- If cell proliferation is too large homeostasis not reached.
+- Use coarse-graining to obtain continuous model which can be analysed quickly in larger parameter space.
+- Model in agreement with discrete simulations, and allows identification of regions of parameter space which give results matching experiment.
+
 
 ## On an infrastructure to support sharing and aggregating pre- and post-publication systems biology research data
 
