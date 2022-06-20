@@ -1,6 +1,6 @@
 # Chaste Crypt
 
-## An integrative computational model for intestinal tissue renewal
+## [An integrative computational model for intestinal tissue renewal](http://dx.doi.org/10.1111/j.1365-2184.2009.00627.x)
 - Gut epithelial layer renewed every few days (2-3 and 3-5 days mice and humans respectively)
 - Computational model for renewal
 - Non-fixed stem cell positions allows Monoclonal conversion and niche succession
@@ -53,7 +53,7 @@
     - Neglected specialised differentiated cell types (especially paneth)
 
 
-## A computational study of discrete mechanical tissue models
+## [A computational study of discrete mechanical tissue models](http://dx.doi.org/10.1088/1478-3975/6/3/036001)
 - Focusing on cell-centre models
 - Two main aspects
     - Cell connectivity
@@ -71,7 +71,7 @@
 - OS and Voronoi similar for elastic compression and yield stress. Identical results for tension and shear. Only different during plastic flow phase. OS much more efficient than Voronoi.
 
 
-## A hybrid approach to multiscale modelling of cancer
+## [A hybrid approach to multiscale modelling of cancer](http://dx.doi.org/10.1098/rsta.2010.0173)
 - Detail in multiscale model allows experimental parameters to be incorporated
 - Continuum models faster but hard to relate system parameters to measurable parameters.
 - Compare cell-centre, cell-vertex and continuum model of cell proliferation
@@ -88,14 +88,14 @@
 - To study mutant invasion, introduce patch of mutant cells and investigate how varying adhesion or position changes ability to invade crypt.
     - Cell-vertex and continuum models suggest bottom-up is predominant method. But top-down is possible if adhesive effects are strong.
 
-## Modelling spatially regulated beta-catenin dynamics and invasion in intestinal crypts
+## [Modelling spatially regulated beta-catenin dynamics and invasion in intestinal crypts](http://dx.doi.org/10.1016/j.bpj.2010.05.016)
 - Develop PDE system to coarse grain the model
 - Multiple crypts
 - Disabled spatial regulation of cell proliferation insufficient for neighbouring crypts to be invaded by mutants
 - Require reduced shedding rate for invasion to occur.
 
 
-## Comparing a discrete and continuum model of the intestinal crypt
+## [Comparing a discrete and continuum model of the intestinal crypt](http://dx.doi.org/10.1088/1478-3975/8/2/026011)
 - Coarse-graining of discrete cell-based models into continuous models used to give insight into the disrete model.
 - Discrete models suffer from stochasticity and large parameter space.
 - Assume crypt symmetric about longitudinal axis -> 1D model equation coarse-grained to the nonlinear diffusion equation.
@@ -105,13 +105,13 @@
 - Model in agreement with discrete simulations, and allows identification of regions of parameter space which give results matching experiment.
 
 
-## On an infrastructure to support sharing and aggregating pre- and post-publication systems biology research data
+## [On an infrastructure to support sharing and aggregating pre- and post-publication systems biology research data](http://dx.doi.org/10.1007/s11693-012-9095-x)
 
-## A theoretical investigation of the effect of proliferation and adhesion on monoclonal conversion in the colonic crypt
+## [A theoretical investigation of the effect of proliferation and adhesion on monoclonal conversion in the colonic crypt](http://dx.doi.org/10.1016/j.jtbi.2012.08.002)
 
-## Mathematical modelling of monoclonal conversion in the colonic crypt
+## [Mathematical modelling of monoclonal conversion in the colonic crypt](http://dx.doi.org/10.1016/j.jtbi.2012.01.021)
 
-## A two-dimensional model of the colonic crypt accounting for the role of the basement membrane and pericryptal fibroblast sheath
+## [A two-dimensional model of the colonic crypt accounting for the role of the basement membrane and pericryptal fibroblast sheath](http://dx.doi.org/10.1371/journal.pcbi.1002515)
 
-## Modelling the role of the basement membrane in the colonic epithelium
+## [Modelling the role of the basement membrane in the colonic epithelium](http://dx.doi.org/10.1016/j.jtbi.2011.12.013)
 
