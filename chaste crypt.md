@@ -111,6 +111,8 @@
 
 
 ## [A theoretical investigation of the effect of proliferation and adhesion on monoclonal conversion in the colonic crypt](http://dx.doi.org/10.1016/j.jtbi.2012.08.002)
+- Mutant cells can have varying cell-cell adhesion (considered $alpha$)
+
 
 ## [Mathematical modelling of monoclonal conversion in the colonic crypt](http://dx.doi.org/10.1016/j.jtbi.2012.01.021)
 
