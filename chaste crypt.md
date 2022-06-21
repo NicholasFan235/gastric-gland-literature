@@ -111,10 +111,22 @@
 
 
 ## [A theoretical investigation of the effect of proliferation and adhesion on monoclonal conversion in the colonic crypt](http://dx.doi.org/10.1016/j.jtbi.2012.08.002)
-- Mutant cells can have varying cell-cell adhesion (considered $alpha$)
+- Mutant cells can have varying cell-cell adhesion (considered $\alpha\in[0.3-10]$)
+- Mutantations in Wnt pathway can cause unregulated proliferation. Proliferation even without Wnt signal. Vary $W_{thr}$ so $y_{th}$ between 30%-100% of crypt height.
+- Simulations run till mutant type is either eliminated or becomes dominant
+- Monoclonal conversion always happens
+- Monoclonal conversion does not require progenitor cell to be immortal
+- Clones with will dominate the crypt tend to originate at the base of the crypt.
+- Mutants with increased cell-substrate adhesion more likely to dominate crypt
+- Simplified probabilistic model of crypt domination depending on relative fitness of WT and mutant
+- Experiments shown cells at base may proliferate more slowly than those higher up, maybe due to mechanical compression
+- Even mutations with unlimited proliferation can only dominate the crypt if mutation occurs near the base
+
 
 
 ## [Mathematical modelling of monoclonal conversion in the colonic crypt](http://dx.doi.org/10.1016/j.jtbi.2012.01.021)
+
+
 
 ## [A two-dimensional model of the colonic crypt accounting for the role of the basement membrane and pericryptal fibroblast sheath](http://dx.doi.org/10.1371/journal.pcbi.1002515)
 
