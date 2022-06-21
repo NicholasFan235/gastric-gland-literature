@@ -43,6 +43,12 @@
         - Targets neck and isthmus
     - Notch in Antrum
         - Stimulates Lgr5+ proliferation but reduces differentiation
+    - Wnt
+        - Maintain undifferentiated state of progenitors in Isthmus
+        - Activation increases progenitor cells in antrum
+    - FGF-10
+    - EGF
+
 
 ## []()
 
