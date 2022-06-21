@@ -106,6 +106,9 @@
 
 
 ## [On an infrastructure to support sharing and aggregating pre- and post-publication systems biology research data](http://dx.doi.org/10.1007/s11693-012-9095-x)
+- Collaborative research through database storing parameters + verson with results
+- Asynchronous requests
+
 
 ## [A theoretical investigation of the effect of proliferation and adhesion on monoclonal conversion in the colonic crypt](http://dx.doi.org/10.1016/j.jtbi.2012.08.002)
 
