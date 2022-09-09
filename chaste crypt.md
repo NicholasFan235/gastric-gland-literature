@@ -132,3 +132,9 @@
 
 ## [Modelling the role of the basement membrane in the colonic epithelium](http://dx.doi.org/10.1016/j.jtbi.2011.12.013)
 
+
+## [The role of mechanics in the growth and homeostasis of the intestinal crypt](https://link.springer.com/article/10.1007/s10237-020-01402-8)
+- A.almet, H.Byrne, P.Maini, D.Malton
+- 2021
+- Crypt
+
